@@ -22,4 +22,4 @@ Enter (1) for perimeter, (2) for area in meters: 1
 Enter L: 2
 Enter W: 2
 
-The perimeter of rectangle is 4 square meters.
+The area of rectangle is 4 square meters.
