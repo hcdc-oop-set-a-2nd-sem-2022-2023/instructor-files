@@ -1,0 +1,25 @@
+Seatwork No. 2
+
+Create a program that will allow user to select between calculating perimeter of
+rectangle and area of rectangle.
+
+P = 2L + 2W
+A = L W
+
+--------------------------
+
+Example #1:
+
+Enter (1) for perimeter, (2) for area in meters: 1
+Enter L: 2
+Enter W: 2
+
+The perimeter of rectangle is 8 meters.
+
+Example #2:
+
+Enter (1) for perimeter, (2) for area in meters: 1
+Enter L: 2
+Enter W: 2
+
+The perimeter of rectangle is 4 square meters.
