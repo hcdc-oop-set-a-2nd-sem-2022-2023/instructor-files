@@ -17,4 +17,4 @@ Example:
 Enter radius in meters: 2
 Enter height in meters: 3
 
-The volume of cylinder is 37.7xxxxx square meters.
+The volume of cylinder is 37.7xxxxx cubic meters.
