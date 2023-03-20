@@ -1,0 +1,13 @@
+Seatwork No. 4
+
+Create a program that will accept a positive number and calculate its factorial.
+
+Example:
+
+Enter a positive number: 0
+Factorial of 0! is 1
+
+---
+
+Enter a positive number: 4
+Factorial of 4! is 24
