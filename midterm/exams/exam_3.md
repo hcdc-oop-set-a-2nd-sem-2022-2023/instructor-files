@@ -35,28 +35,28 @@ quarterSales = [
     {
         id: 5,
         quarter: "Q1",
-        year: "2022",
+        year: "2023",
         sales: 3000000,
         expenses: 800000
     },
     {
         id: 6,
         quarter: "Q2",
-        year: "2022",
+        year: "2023",
         sales: 4000000,
         expenses: 600000
     },
     {
         id: 7,
         quarter: "Q3",
-        year: "2022",
+        year: "2023",
         sales: 1500000,
         expenses: 700000
     },
     {
         id: 8,
         quarter: "Q4",
-        year: "2022",
+        year: "2023",
         sales: 2000000,
         expenses: 800000
     }
