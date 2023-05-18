@@ -4,8 +4,8 @@ Given the base class:
 
 ```
 class Person() {
-    public firstName: string = 0
-    public lastName: string = 0
+    public firstName: string = ''
+    public lastName: string = ''
 
     constructor(firstName: string, lastName: string) {
         this.firstName = firstName
